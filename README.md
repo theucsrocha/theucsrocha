@@ -63,7 +63,7 @@ Olá! Me chamo Matheus Rocha, sou natural de Salvador, Bahia, e estudante de pro
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=theucsrocha&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=theucsrocha&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
   />
 
 </p>
