@@ -1,6 +1,6 @@
 # 👨🏿‍💻 Matheus Rocha
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Java Backend`**
 
 Olá! Me chamo Matheus Rocha, sou natural de Salvador, Bahia, e estudante de programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal da Bahia e também me especializando em programação Full Stack pela Infinity School. Estou sempre em busca de novos conhecimentos para me desenvolver e avançar na área.
 
