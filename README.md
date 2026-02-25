@@ -1,19 +1,16 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tr0j4n0/Tr0j4n0/master/sc_purple.gif" width="100%" alt="Galáxia Animada">
-  
-  <h1>🌌 Matheus Rocha</h1>
-  <h3>Desenvolvedor Java Backend & Explorador do Código 🚀</h3>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Matheus%20Rocha&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Java+Backend;Estudante+de+ADS+no+IFBA;Especialista+Full+Stack;Transformando+caf%C3%A9+em+c%C3%B3digo!&font=Fira+Code&center=true&width=550&height=50&color=9933FF&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Java+Backend;Estudante+de+ADS+no+IFBA;Especialista+Full+Stack;Transformando+caf%C3%A9+em+c%C3%B3digo!&font=Fira+Code&center=true&width=550&height=50&color=9933FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍🚀 Sobre Minha Jornada
 
-Olá! Sou **Matheus Rocha**, natural de **Salvador, Bahia**. Atualmente, curso **Análise e Desenvolvimento de Sistemas** no **IFBA** e me especializo em **Full Stack** pela Infinity School. Meu foco principal é o ecossistema Java.
+Olá! Sou **Matheus Rocha**, natural de **Salvador, Bahia**. Atualmente, curso **Análise e Desenvolvimento de Sistemas** no **IFBA** e me especializo em **Full Stack**. Meu foco principal é o ecossistema Java.
 
 ---
 
@@ -32,13 +29,9 @@ Olá! Sou **Matheus Rocha**, natural de **Salvador, Bahia**. Atualmente, curso *
 ### 🔭 Observatório de Métricas (Porcentagens)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theucsrocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theucsrocha&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theucsrocha&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theucsrocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 </div>
 
 ---
