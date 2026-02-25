@@ -6,14 +6,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1!+Seja+bem-vindo(a);Desenvolvedor+Java+Backend;Estudante+de+ADS+no+IFBA;Transformando+caf%C3%A9+em+c%C3%B3digo!&font=Fira+Code&center=true&width=550&height=50&color=9933FF&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Java+Backend;Estudante+de+ADS+no+IFBA;Especialista+Full+Stack;Transformando+caf%C3%A9+em+c%C3%B3digo!&font=Fira+Code&center=true&width=550&height=50&color=9933FF&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍🚀 Sobre Minha Jornada
 
-Olá! Sou natural de Salvador, Bahia, e apaixonado por tecnologia. Atualmente, curso **Análise e Desenvolvimento de Sistemas** no **IFBA** e me especializo em **Full Stack**.
+Olá! Sou **Matheus Rocha**, natural de **Salvador, Bahia**. Atualmente, curso **Análise e Desenvolvimento de Sistemas** no **IFBA** e me especializo em **Full Stack** pela Infinity School. Meu foco principal é o ecossistema Java, mas sou um entusiasta de novas tecnologias e arquiteturas robustas.
 
 ---
 
@@ -30,10 +30,14 @@ Olá! Sou natural de Salvador, Bahia, e apaixonado por tecnologia. Atualmente, c
 ---
 
 ### 🔭 Observatório de Métricas
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theucsrocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theucsrocha&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theucsrocha&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theucsrocha&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
