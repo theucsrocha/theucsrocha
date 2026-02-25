@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Galáxia Constelação">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Galáxia Animada">
   
   <h1>🌌 Matheus Rocha</h1>
   <h3>Desenvolvedor Java Backend & Explorador do Código 🚀</h3>
-  <br>
 </div>
 
 <div align="center">
@@ -16,7 +15,7 @@
 
 ### 👨‍🚀 Sobre Minha Jornada
 
-Sou natural de Salvador, Bahia, atualmente focado em **Análise e Desenvolvimento de Sistemas** (IFBA) e especialização **Full Stack** (Infinity School). O universo da programação é vasto, e meu objetivo é dominar o ecossistema Java e a construção de sistemas robustos.
+Sou natural de **Salvador, Bahia**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **IFBA** e me especializando em **Full Stack** pela Infinity School. Meu objetivo é dominar o ecossistema Java e construir sistemas robustos e escaláveis.
 
 ---
 
@@ -34,11 +33,25 @@ Sou natural de Salvador, Bahia, atualmente focado em **Análise e Desenvolviment
 
 ### 🔭 Observatório de Métricas
 
-*(Estes painéis mostram minha atividade em tempo real)*
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theucsrocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theucsrocha&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+</div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theucsrocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do Matheus"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theucsrocha&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theucsrocha&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🐍 Contribuições (Snake Game)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theucsrocha/theucsrocha/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theucsrocha/theucsrocha/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theucsrocha/theucsrocha/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -46,11 +59,8 @@ Sou natural de Salvador, Bahia, atualmente focado em **Análise e Desenvolviment
 ### 🛰️ Transmissões Abertas (Contato)
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/theucsrocha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
