@@ -13,7 +13,7 @@
 
 ### 👨‍🚀 Sobre Minha Jornada
 
-Olá! Sou **Matheus Rocha**, natural de **Salvador, Bahia**. Atualmente, curso **Análise e Desenvolvimento de Sistemas** no **IFBA** e me especializo em **Full Stack** pela Infinity School. Meu foco principal é o ecossistema Java, mas sou um entusiasta de novas tecnologias e arquiteturas robustas.
+Olá! Sou **Matheus Rocha**, natural de **Salvador, Bahia**. Atualmente, curso **Análise e Desenvolvimento de Sistemas** no **IFBA** e me especializo em **Full Stack** pela Infinity School. Meu foco principal é o ecossistema Java.
 
 ---
 
@@ -29,7 +29,8 @@ Olá! Sou **Matheus Rocha**, natural de **Salvador, Bahia**. Atualmente, curso *
 
 ---
 
-### 🔭 Observatório de Métricas
+### 🔭 Observatório de Métricas (Porcentagens)
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theucsrocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   
