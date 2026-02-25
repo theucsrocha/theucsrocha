@@ -1,0 +1,32 @@
+name: Generate Datas
+
+on:
+  schedule: # Roda automaticamente a cada 24 horas
+    - cron: "0 */24 * * *"
+  workflow_dispatch: # Permite que você rode manualmente quando quiser
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Clona o seu repositório
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # 2. Gera a animação da cobrinha
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: theucsrocha
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 3. Salva os arquivos gerados em uma branch chamada 'output'
+      - name: Push changes
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
