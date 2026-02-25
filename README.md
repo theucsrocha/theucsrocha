@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Matheus%20Rocha&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" alt="Matheus Rocha Header" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Matheus%20Rocha&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" alt="Matheus Rocha" />
 </div>
 
 <div align="center">
@@ -26,7 +26,7 @@ Olá! Sou **Matheus Rocha**, natural de **Salvador, Bahia**. Atualmente, curso *
 
 ---
 
-### 🔭 Observatório de Métricas (Porcentagens)
+### 🔭 Observatório de Métricas 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theucsrocha&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
